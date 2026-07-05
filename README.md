@@ -11,7 +11,7 @@ https://datatracker.ietf.org/doc/html/rfc1321
 
 https://www.youtube.com/watch?v=5MiMK45gkTY&t=461s
 
-### 3: for b_crypt2.py i used the following liks i didnt got much informations on it so use this resources with chatgpt:
+## 3: for b_crypt2.py i used the following liks i didnt got much informations on it so use this resources with chatgpt:
 
 theory of bcrypt pseudocode: https://en.wikipedia.org/wiki/Bcrypt
 theory of blowfish encryption : https://en.wikipedia.org/wiki/Blowfish_(cipher)
