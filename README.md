@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=5MiMK45gkTY&t=461s
 
 theory of bcrypt pseudocode: https://en.wikipedia.org/wiki/Bcrypt
 theory of blowfish encryption : https://en.wikipedia.org/wiki/Blowfish_(cipher)
-## 4L for app.py(RSA implementation) i used the following resources for learning the crypt system:
+## 4: for app.py(RSA implementation) i used the following resources for learning the crypt system:
 https://en.wikipedia.org/wiki/RSA_cryptosystem
 
 https://www.geeksforgeeks.org/computer-networks/rsa-algorithm-cryptography/
